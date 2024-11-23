@@ -28,7 +28,7 @@ librarian_login() {
     echo -n "Enter password: "
     read -s password
     echo ""
-    if [ "$username" == "rahat365" ] && [ "$password" == "4462" ]; then
+    if [ "$username" == "mahfuzur" ] && [ "$password" == "5270" ]; then
         echo ""
         echo "Login successful..."
         sleep 2
